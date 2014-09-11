@@ -79,6 +79,7 @@
 - [SASS](https://sublime.wbond.net/packages/Sass)
 - [BracketHighlighter](https://sublime.wbond.net/packages/BracketHighlighter)
 - [Autoprefixer](https://sublime.wbond.net/packages/Autoprefixer)
+- [Emmet](https://sublime.wbond.net/packages/Emmet)
 
 **git**
 
