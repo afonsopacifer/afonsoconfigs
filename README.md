@@ -64,6 +64,7 @@
 **Google Chrome - Apps/Extensions**
 
 - [yslow](http://yslow.org/)
+- [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=pt-BR)
 
 **Sublime Text 3**
 
