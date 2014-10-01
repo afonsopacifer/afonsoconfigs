@@ -55,7 +55,7 @@
 
 	$ sudo apt-get install htop
 
-##Front-End
+##Development
 
 **Google Chrome**
 
@@ -110,12 +110,14 @@
 **Bower**
 
 	$ npm install -g bower
+	
+**Yeoman**
+
+	$ npm install -g yo
 
 **Rsync**
 
 	$ apt-get install rsync 
-
-##Back-End
 
 **Apache 2**
 
