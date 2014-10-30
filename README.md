@@ -93,6 +93,11 @@
 **SASS**
 
 	$ sudo gem install sass
+	
+**Jekyll**
+
+	$ sudo apt-get install ruby1.9.1-dev
+	$ gem install jekyll
 
 **NodeJS**
 
