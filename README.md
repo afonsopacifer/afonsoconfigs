@@ -88,7 +88,7 @@
 
 **Ruby**
 
-	$ sudo apt-get install ruby
+	$ sudo apt-get install ruby1.9.1-dev
 
 **SASS**
 
@@ -99,6 +99,12 @@
 	$ sudo apt-get install ruby1.9.1-dev
 	$ gem install jekyll
 
+**cURL**
+
+	$ sudo add-apt-repository ppa:costamagnagianfranco/ettercap-stable-backports
+	$ sudo apt-get update
+	$ sudo apt-get install curl
+	
 **NodeJS**
 
 	$ curl -sL https://deb.nodesource.com/setup | sudo bash -
