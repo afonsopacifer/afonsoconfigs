@@ -85,6 +85,8 @@
 **git**
 
 	$ apt-get install git
+	$ git config --global user.name "my name"
+	$ git config --global user.email my-email@example.com
 
 **Ruby**
 
@@ -96,7 +98,6 @@
 	
 **Jekyll**
 
-	$ sudo apt-get install ruby1.9.1-dev
 	$ gem install jekyll
 
 **cURL**
