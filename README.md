@@ -83,6 +83,11 @@
 - [Emmet](https://sublime.wbond.net/packages/Emmet)
 - [Dictionaries](https://github.com/SublimeText/Dictionaries)
 
+**Sublime Text 3 - key Bindings**
+
+	{ "keys": ["ctrl+;"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+;"], "command": "toggle_comment", "args": { "block": true } }
+
 **git**
 
 	$ apt-get install git
