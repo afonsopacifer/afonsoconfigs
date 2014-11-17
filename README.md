@@ -81,6 +81,7 @@
 - [BracketHighlighter](https://sublime.wbond.net/packages/BracketHighlighter)
 - [Autoprefixer](https://sublime.wbond.net/packages/Autoprefixer)
 - [Emmet](https://sublime.wbond.net/packages/Emmet)
+- [Dictionaries](https://github.com/SublimeText/Dictionaries)
 
 **git**
 
