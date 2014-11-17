@@ -91,6 +91,9 @@
 **git**
 
 	$ apt-get install git
+	
+**git configs**
+
 	$ git config --global user.name "my name"
 	$ git config --global user.email my-email@example.com
 
