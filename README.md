@@ -2,7 +2,7 @@
 
 # My list of packages to install on ubuntu.
 
-###[Ubuntu 14.04 LTS](http://ubuntu-br.org/)
+###[Ubuntu 14.10 Utopic Unicorn](http://ubuntu-br.org/)
 
 ## Basic
 
@@ -65,6 +65,7 @@
 
 - [yslow](http://yslow.org/)
 - [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=pt-BR)
+- [Evernote](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=pt-BR)
 
 **Sublime Text 3**
 
@@ -82,6 +83,8 @@
 - [Autoprefixer](https://sublime.wbond.net/packages/Autoprefixer)
 - [Emmet](https://sublime.wbond.net/packages/Emmet)
 - [Dictionaries](https://github.com/SublimeText/Dictionaries)
+- [Color Highlighter](https://sublime.wbond.net/packages/Color%20Highlighter)
+- [javascript snippets](https://github.com/zenorocha/sublime-javascript-snippets)
 
 **Sublime Text 3 - key Bindings**
 
