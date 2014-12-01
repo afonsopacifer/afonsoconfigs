@@ -159,6 +159,15 @@
 
 ## Utilities
 
+**XMind**
+
+[Download](http://www.xmind.net/download/linux/)
+
+**Folder Color**
+
+	sudo add-apt-repository ppa:costales/folder-color
+	sudo apt-get update && sudo apt-get install folder-color
+
 **Gimp**
 
 	$ sudo apt-get install gimp
