@@ -127,9 +127,17 @@
 
 	$ sudo apt-get install npm
 
-**GruntJS**
+**Grunt**
 
 	$ npm install -g grunt-cli
+	
+**Gulp**
+
+	$ npm install -g gulp
+	
+**JSHint**
+
+	$ npm install -g jshint
 
 **Bower**
 
