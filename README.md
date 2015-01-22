@@ -2,19 +2,20 @@
 
 # My list of packages to install on ubuntu.
 
-###[Ubuntu 14.10 Utopic Unicorn](http://ubuntu-br.org/)
+###[Ubuntu  14.10 Utopic Unicorn](http://ubuntu-br.org/)
+###[Xubuntu 14.10 Utopic Unicorn](http://xubuntu.org/news/14-10-release/)
 
 ## Basic
 
 **Update & Upgrade**
 
-    $ sudo apt-get update
-    $ sudo apt-get upgrade
+	 $ sudo apt-get update
+	 $ sudo apt-get upgrade
     
 
 **Terminator**
 
-    $ sudo add-apt-repository ppa:gnome-terminator
+    	$ sudo add-apt-repository ppa:gnome-terminator
 	$ sudo apt-get update
 	$ sudo apt-get install terminator
 
