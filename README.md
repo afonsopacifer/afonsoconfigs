@@ -15,7 +15,7 @@
 
 **Terminator**
 
-    	$ sudo add-apt-repository ppa:gnome-terminator
+  	$ sudo add-apt-repository ppa:gnome-terminator
 	$ sudo apt-get update
 	$ sudo apt-get install terminator
 
@@ -118,15 +118,19 @@
 	$ sudo add-apt-repository ppa:costamagnagianfranco/ettercap-stable-backports
 	$ sudo apt-get update
 	$ sudo apt-get install curl
+
+**NVM**
+
+	curl https://raw.githubusercontent.com/creationix/nvm/v0.23.2/install.sh | bash
 	
 **NodeJS**
 
 	$ curl -sL https://deb.nodesource.com/setup | sudo bash -
 	$ sudo apt-get install -y nodejs
 
-**npm**
+**io.js**
 
-	$ sudo apt-get install npm
+[Download](https://iojs.org/)
 
 **Grunt**
 
