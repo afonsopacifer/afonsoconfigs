@@ -86,6 +86,7 @@
 - [Dictionaries](https://github.com/SublimeText/Dictionaries)
 - [Color Highlighter](https://sublime.wbond.net/packages/Color%20Highlighter)
 - [javascript snippets](https://github.com/zenorocha/sublime-javascript-snippets)
+- [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 
 **Sublime Text 3 - key Bindings**
 
