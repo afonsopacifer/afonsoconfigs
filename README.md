@@ -87,6 +87,8 @@
 - [Color Highlighter](https://sublime.wbond.net/packages/Color%20Highlighter)
 - [javascript snippets](https://github.com/zenorocha/sublime-javascript-snippets)
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
+- [Jade](https://packagecontrol.io/packages/Jade)
+- [Stylus](https://packagecontrol.io/packages/Stylus)
 
 **Sublime Text 3 - key Bindings**
 
@@ -140,6 +142,14 @@
 **Gulp**
 
 	$ npm install -g gulp
+
+**Jade**
+
+	$ npm install -g jade
+	
+**Stylus**
+
+	$ npm install -g stylus
 	
 **JSHint**
 
