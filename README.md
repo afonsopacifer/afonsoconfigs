@@ -68,6 +68,10 @@
 - [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=pt-BR)
 - [Evernote](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=pt-BR)
 
+**Atom**
+
+- [Atom](https://atom.io/)
+
 **Sublime Text 3**
 
 	$ sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
