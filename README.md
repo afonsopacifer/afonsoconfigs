@@ -111,7 +111,7 @@
 **Atom**
 
 [Download](https://atom.io/)
-	
+
 **Ruby**
 
 	$ sudo apt-get install ruby1.9.1-dev
@@ -185,7 +185,7 @@
 
 	$ sudo apt-get install mysql-server
 
-**PHP**
+**PHP 5**
 
 	$ sudo apt-get install php5 php-pear php5-mysql
 
