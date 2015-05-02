@@ -11,7 +11,7 @@
 
 	 $ sudo apt-get update
 	 $ sudo apt-get upgrade
-    
+
 
 **Terminator**
 
@@ -30,8 +30,8 @@
 
 **Google Drive**
 
-	$ sudo add-apt-repository ppa:thefanclub/grive-tools 
-	$ sudo apt-get update 
+	$ sudo add-apt-repository ppa:thefanclub/grive-tools
+	$ sudo apt-get update
 	$ sudo apt-get install grive-tools
 
 ##Performance
@@ -76,7 +76,7 @@
 
 	$ sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
 	$ sudo apt-get update
-	$ sudo apt-get install -y sublime-text-installer 
+	$ sudo apt-get install -y sublime-text-installer
 
 **Sublime Text 3 - Extensions**
 
@@ -102,12 +102,16 @@
 **git**
 
 	$ apt-get install git
-	
+
 **git configs**
 
 	$ git config --global user.name "my name"
 	$ git config --global user.email my-email@example.com
 
+**Atom**
+
+[Download](https://atom.io/)
+	
 **Ruby**
 
 	$ sudo apt-get install ruby1.9.1-dev
@@ -115,7 +119,7 @@
 **SASS**
 
 	$ sudo gem install sass
-	
+
 **Jekyll**
 
 	$ gem install jekyll
@@ -129,7 +133,7 @@
 **NVM**
 
 	curl https://raw.githubusercontent.com/creationix/nvm/v0.23.2/install.sh | bash
-	
+
 **NodeJS**
 
 	$ curl -sL https://deb.nodesource.com/setup | sudo bash -
@@ -142,7 +146,7 @@
 **Grunt**
 
 	$ npm install -g grunt-cli
-	
+
 **Gulp**
 
 	$ npm install -g gulp
@@ -150,11 +154,11 @@
 **Jade**
 
 	$ npm install -g jade
-	
+
 **Stylus**
 
 	$ npm install -g stylus
-	
+
 **JSHint**
 
 	$ npm install -g jshint
@@ -162,14 +166,14 @@
 **Bower**
 
 	$ npm install -g bower
-	
+
 **Yeoman**
 
 	$ npm install -g yo
 
 **Rsync**
 
-	$ apt-get install rsync 
+	$ apt-get install rsync
 
 **Apache 2**
 
@@ -219,14 +223,14 @@
 
 **Keylock**
 
-	$ sudo add-apt-repository ppa:tsbarnes/indicator-keylock 
-	$ sudo apt-get update 
+	$ sudo add-apt-repository ppa:tsbarnes/indicator-keylock
+	$ sudo apt-get update
 	$ sudo apt-get install indicator-keylock
 
 **Nemo**
 
-	$ sudo add-apt-repository ppa:webupd8team/nemo 
-	$ sudo apt-get update 
+	$ sudo add-apt-repository ppa:webupd8team/nemo
+	$ sudo apt-get update
 	$ sudo apt-get install nemo nemo-fileroller
 
 **VLC**
