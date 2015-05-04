@@ -1,60 +1,66 @@
-![alt text](constructocat.jpg "constructocat")
+![constructocat](constructocat.jpg "constructocat")
 
-# My list of packages to install on ubuntu.
+# My packages list for install on ubuntu.
 
-###[Ubuntu  14.10 Utopic Unicorn](http://ubuntu-br.org/)
-###[Xubuntu 14.10 Utopic Unicorn](http://xubuntu.org/news/14-10-release/)
+- **[Ubuntu  14.10 Utopic Unicorn](http://ubuntu-br.org/)**
+- **[Xubuntu 14.10 Utopic Unicorn](http://xubuntu.org/news/14-10-release/)**
 
 ## Basic
 
 **Update & Upgrade**
-
-	 $ sudo apt-get update
-	 $ sudo apt-get upgrade
-
+```
+$ apt-get update
+$ apt-get upgrade
+```
 
 **Terminator**
-
-  	$ sudo add-apt-repository ppa:gnome-terminator
-	$ sudo apt-get update
-	$ sudo apt-get install terminator
+```
+$ add-apt-repository ppa:gnome-terminator
+$ apt-get update
+$ apt-get install terminator
+```
 
 **Codecs Audio/Video**
-
-	$ sudo apt-get install ubuntu-restricted-extras
-	$ sudo apt-get install libavcodec-extra libav-tools
+```
+$ apt-get install ubuntu-restricted-extras
+$ apt-get install libavcodec-extra libav-tools
+```
 
 **DropBox**
-
-	$ sudo apt-get install nautilus-dropbox
+```
+$ apt-get install nautilus-dropbox
+```
 
 **Google Drive**
+```
+$ add-apt-repository ppa:thefanclub/grive-tools
+$ apt-get update
+$ apt-get install grive-tools
+```
 
-	$ sudo add-apt-repository ppa:thefanclub/grive-tools
-	$ sudo apt-get update
-	$ sudo apt-get install grive-tools
-
-##Performance
+##Battery Performance
 
 **TLP**
-
-	$ sudo apt-get remove laptop-mode-tools
-	$ sudo add-apt-repository ppa:linrunner/tlp
-	$ sudo apt-get update
-	$ sudo apt-get install tlp tlp-rdw
-	$ sudo tlp start
+```
+$ apt-get remove laptop-mode-tools
+$ add-apt-repository ppa:linrunner/tlp
+$ apt-get update
+$ apt-get install tlp tlp-rdw
+$ tlp start
+```
 
 **Laptop Mode Tools**
-
-	$ sudo apt-get remove tlp tlp-rdw
-	$ sudo add-apt-repository ppa:webupd8team/unstable
-	$ sudo apt-get update
-	$ sudo apt-get install laptop-mode-tools
-	$ gksu lmt-config-gui
-
+```
+$ apt-get remove tlp tlp-rdw
+$ add-apt-repository ppa:webupd8team/unstable
+$ apt-get update
+$ apt-get install laptop-mode-tools
+$ gksu lmt-config-gui
+```
 **htop**
-
-	$ sudo apt-get install htop
+```
+$ apt-get install htop
+```
 
 ##Development
 
@@ -73,10 +79,11 @@
 - [Atom](https://atom.io/)
 
 **Sublime Text 3**
-
-	$ sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
-	$ sudo apt-get update
-	$ sudo apt-get install -y sublime-text-installer
+```
+$ add-apt-repository -y ppa:webupd8team/sublime-text-3
+$ apt-get update
+$ apt-get install -y sublime-text-installer
+```
 
 **Sublime Text 3 - Extensions**
 
@@ -100,94 +107,113 @@
 	{ "keys": ["ctrl+shift+;"], "command": "toggle_comment", "args": { "block": true } }
 
 **git**
-
-	$ apt-get install git
+```
+$ apt-get install git
+```
 
 **git configs**
-
-	$ git config --global user.name "my name"
-	$ git config --global user.email my-email@example.com
+```
+$ git config --global user.name "my name"
+$ git config --global user.email my-email@example.com
+```
 
 **Atom**
 
 [Download](https://atom.io/)
 
 **Ruby**
-
-	$ sudo apt-get install ruby1.9.1-dev
+```
+$ apt-get install ruby1.9.1-dev
+```
 
 **SASS**
-
-	$ sudo gem install sass
+```
+$ gem install sass
+```
 
 **Jekyll**
-
-	$ gem install jekyll
+```
+$ gem install jekyll
+```
 
 **cURL**
-
-	$ sudo add-apt-repository ppa:costamagnagianfranco/ettercap-stable-backports
-	$ sudo apt-get update
-	$ sudo apt-get install curl
+```
+$ add-apt-repository ppa:costamagnagianfranco/ettercap-stable-backports
+$ apt-get update
+$ apt-get install curl
+```
 
 **NVM**
-
-	curl https://raw.githubusercontent.com/creationix/nvm/v0.23.2/install.sh | bash
+```
+curl https://raw.githubusercontent.com/creationix/nvm/v0.23.2/install.sh | bash
+```
 
 **NodeJS**
-
-	$ curl -sL https://deb.nodesource.com/setup | sudo bash -
-	$ sudo apt-get install -y nodejs
+```
+$ curl -sL https://deb.nodesource.com/setup | bash -
+$ apt-get install -y nodejs
+```
 
 **io.js**
 
 [Download](https://iojs.org/)
 
 **Grunt**
-
-	$ npm install -g grunt-cli
+```
+$ npm install -g grunt-cli
+```
 
 **Gulp**
-
-	$ npm install -g gulp
+```
+$ npm install -g gulp
+```
 
 **Jade**
-
-	$ npm install -g jade
+```
+$ npm install -g jade
+```
 
 **Stylus**
-
-	$ npm install -g stylus
+```
+$ npm install -g stylus
+```
 
 **JSHint**
-
-	$ npm install -g jshint
+```
+$ npm install -g jshint
+```
 
 **Bower**
-
-	$ npm install -g bower
+```
+$ npm install -g bower
+```
 
 **Yeoman**
-
-	$ npm install -g yo
+```
+$ npm install -g yo
+```
 
 **Rsync**
-
-	$ apt-get install rsync
+```
+$ apt-get install rsync
+```
 
 **Apache 2**
-
-	$ apt-get update
-	$ sudo apt-get install build-essential
-	$ sudo apt-get install apache2
+```
+$ apt-get update
+$ apt-get install build-essential
+$ apt-get install apache2
+```
 
 **MySQL**
-
-	$ sudo apt-get install mysql-server
+```
+$ apt-get install mysql-server
+```
 
 **PHP 5**
-
-	$ sudo apt-get install php5 php-pear php5-mysql
+```
+$ apt-get install php5 php-pear php5-mysql
+```
 
 ## Utilities
 
@@ -196,43 +222,52 @@
 [Download](http://www.xmind.net/download/linux/)
 
 **Folder Color**
-
-	sudo add-apt-repository ppa:costales/folder-color
-	sudo apt-get update && sudo apt-get install folder-color
+```
+$ add-apt-repository ppa:costales/folder-color
+$ apt-get update && apt-get install folder-color
+```
 
 **Gimp**
-
-	$ sudo apt-get install gimp
+```
+$ apt-get install gimp
+```
 
 **Play encrypted DVD**
-
-	$ sudo apt-get install libdvdread4
-	$ sudo /usr/share/doc/libdvdread4/install-css.sh
+```
+$ apt-get install libdvdread4
+$ /usr/share/doc/libdvdread4/install-css.sh
+```
 
 **deluge**
-
-	$ sudo apt-get install deluge
+```
+$ apt-get install deluge
+```
 
 **Rar**
-
-	$ sudo apt-get install rar
+```
+$ apt-get install rar
+```
 
 **Gparted**
-
-	$ sudo apt-get install gparted
+```
+$ apt-get install gparted
+```
 
 **Keylock**
-
-	$ sudo add-apt-repository ppa:tsbarnes/indicator-keylock
-	$ sudo apt-get update
-	$ sudo apt-get install indicator-keylock
+```
+$ add-apt-repository ppa:tsbarnes/indicator-keylock
+$ apt-get update
+$ apt-get install indicator-keylock
+```
 
 **Nemo**
-
-	$ sudo add-apt-repository ppa:webupd8team/nemo
-	$ sudo apt-get update
-	$ sudo apt-get install nemo nemo-fileroller
+```
+$ add-apt-repository ppa:webupd8team/nemo
+$ apt-get update
+$ apt-get install nemo nemo-fileroller
+```
 
 **VLC**
-
-	$ sudo apt-get install vlc
+```
+$ apt-get install vlc
+```
