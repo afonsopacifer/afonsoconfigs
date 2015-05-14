@@ -1,72 +1,13 @@
 ![constructocat](constructocat.jpg "constructocat")
 
-# My packages list for install on ubuntu.
+# My packages list for install on "UNIX like" systems
 
-- **[Ubuntu  14.10 Utopic Unicorn](http://ubuntu-br.org/)**
-- **[Xubuntu 14.10 Utopic Unicorn](http://xubuntu.org/news/14-10-release/)**
+## Table of Contents
 
-## Basic
+* [For Development](#for-development)
+* [Utilities](#ubuntu-utilities)
 
-**Update & Upgrade**
-```
-$ apt-get update
-$ apt-get upgrade
-```
-
-**Terminator**
-```
-$ add-apt-repository ppa:gnome-terminator
-$ apt-get update
-$ apt-get install terminator
-```
-
-**Codecs Audio/Video**
-```
-$ apt-get install ubuntu-restricted-extras
-$ apt-get install libavcodec-extra libav-tools
-```
-
-**DropBox**
-```
-$ apt-get install nautilus-dropbox
-```
-
-**Google Drive**
-```
-$ add-apt-repository ppa:thefanclub/grive-tools
-$ apt-get update
-$ apt-get install grive-tools
-```
-
-##Battery Performance
-
-**TLP**
-```
-$ apt-get remove laptop-mode-tools
-$ add-apt-repository ppa:linrunner/tlp
-$ apt-get update
-$ apt-get install tlp tlp-rdw
-$ tlp start
-```
-
-**Laptop Mode Tools**
-```
-$ apt-get remove tlp tlp-rdw
-$ add-apt-repository ppa:webupd8team/unstable
-$ apt-get update
-$ apt-get install laptop-mode-tools
-$ gksu lmt-config-gui
-```
-**htop**
-```
-$ apt-get install htop
-```
-
-##Development
-
-**Google Chrome**
-
-- [Download](http://www.google.com/chrome/)
+## For Development
 
 **Google Chrome - Apps/Extensions**
 
@@ -215,7 +156,61 @@ $ apt-get install mysql-server
 $ apt-get install php5 php-pear php5-mysql
 ```
 
-## Utilities
+## Ubuntu Utilities
+
+**Update & Upgrade**
+```
+$ apt-get update
+$ apt-get upgrade
+```
+
+**Terminator**
+```
+$ add-apt-repository ppa:gnome-terminator
+$ apt-get update
+$ apt-get install terminator
+```
+
+**Codecs Audio/Video**
+```
+$ apt-get install ubuntu-restricted-extras
+$ apt-get install libavcodec-extra libav-tools
+```
+
+**DropBox**
+```
+$ apt-get install nautilus-dropbox
+```
+
+**Google Drive**
+```
+$ add-apt-repository ppa:thefanclub/grive-tools
+$ apt-get update
+$ apt-get install grive-tools
+```
+
+**TLP**
+```
+$ apt-get remove laptop-mode-tools
+$ add-apt-repository ppa:linrunner/tlp
+$ apt-get update
+$ apt-get install tlp tlp-rdw
+$ tlp start
+```
+
+**Laptop Mode Tools**
+```
+$ apt-get remove tlp tlp-rdw
+$ add-apt-repository ppa:webupd8team/unstable
+$ apt-get update
+$ apt-get install laptop-mode-tools
+$ gksu lmt-config-gui
+
+```
+**htop**
+```
+$ apt-get install htop
+```
 
 **XMind**
 
