@@ -266,3 +266,5 @@ $ apt-get install nemo nemo-fileroller
 ```
 $ apt-get install vlc
 ```
+##Licence
+[MIT Licence](licence.md) © Afonso Pacifer
