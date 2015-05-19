@@ -139,6 +139,10 @@ $ npm install -g yo
 $ apt-get install rsync
 ```
 
+**Jasmine**
+
+[Download](http://jasmine.github.io/)
+
 **Apache 2**
 ```
 $ apt-get update
