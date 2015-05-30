@@ -26,9 +26,10 @@ $ apt-get update
 $ apt-get install -y sublime-text-installer
 ```
 
-**Sublime Text 3 - Extensions**
+**Sublime Text 3 - Packages**
 
 - [Package Control](https://sublime.wbond.net/installation)
+- [Pumpkin Color Scheme](https://packagecontrol.io/packages/Pumpkin%20Color%20Scheme)
 - [ColorPicker](https://sublime.wbond.net/packages/ColorPicker)
 - [CSS3](https://sublime.wbond.net/packages/CSS3)
 - [SASS](https://sublime.wbond.net/packages/Sass)
