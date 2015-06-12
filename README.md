@@ -42,6 +42,7 @@ $ apt-get install -y sublime-text-installer
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Jade](https://packagecontrol.io/packages/Jade)
 - [Stylus](https://packagecontrol.io/packages/Stylus)
+- [Pumpkin Theme](https://packagecontrol.io/packages/Pumpkin%20Color%20Scheme)
 
 **Sublime Text 3 - key Bindings**
 
