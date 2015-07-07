@@ -1,6 +1,6 @@
 ![constructocat](constructocat.jpg "constructocat")
 
-# My packages list for install on "UNIX like" systems
+# My packages list for install on Ubuntu
 
 ## Table of Contents
 
