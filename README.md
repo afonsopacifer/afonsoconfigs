@@ -98,10 +98,6 @@ $ curl -sL https://deb.nodesource.com/setup | bash -
 $ apt-get install -y nodejs
 ```
 
-**io.js**
-
-[Download](https://iojs.org/)
-
 **Grunt**
 ```
 $ npm install -g grunt-cli
