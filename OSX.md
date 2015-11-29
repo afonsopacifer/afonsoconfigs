@@ -1,0 +1,13 @@
+- iterm (pumpkin)
+- term theme
+- Solarized Dark
+- zsh (git)
+- .zshrc
+- .zsh theme (with power lines fonts)
+- .gitconfig
+- Homebrew
+- powerlinefonts (test com: echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699")
+- .vimdc
+- vim :intallplugins
+- vim
+  - plugin used list
