@@ -1,72 +1,28 @@
-**Google Chrome - Apps/Extensions**
+## [<-- Back](README.md) / Ubuntu
 
-- [yslow](http://yslow.org/)
-- [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=pt-BR)
-- [Evernote](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=pt-BR)
+## Table of Contents
+- [Platforms](#platforms)
+- [Dev](#dev)
+- [Utilities](#utilities)
 
-**Atom**
+## Platforms
 
-- [Atom](https://atom.io/)
-
-**Sublime Text 3**
+**NodeJS**
 ```
-$ add-apt-repository -y ppa:webupd8team/sublime-text-3
-$ apt-get update
-$ apt-get install -y sublime-text-installer
+$ curl -sL https://deb.nodesource.com/setup | bash -
+$ apt-get install -y nodejs
 ```
-
-**Sublime Text 3 - Packages**
-
-- [Package Control](https://sublime.wbond.net/installation)
-- [Pumpkin Color Scheme](https://packagecontrol.io/packages/Pumpkin%20Color%20Scheme)
-- [ColorPicker](https://sublime.wbond.net/packages/ColorPicker)
-- [CSS3](https://sublime.wbond.net/packages/CSS3)
-- [SASS](https://sublime.wbond.net/packages/Sass)
-- [BracketHighlighter](https://sublime.wbond.net/packages/BracketHighlighter)
-- [Autoprefixer](https://sublime.wbond.net/packages/Autoprefixer)
-- [Emmet](https://sublime.wbond.net/packages/Emmet)
-- [Dictionaries](https://github.com/SublimeText/Dictionaries)
-- [Color Highlighter](https://sublime.wbond.net/packages/Color%20Highlighter)
-- [javascript snippets](https://github.com/zenorocha/sublime-javascript-snippets)
-- [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
-- [Jade](https://packagecontrol.io/packages/Jade)
-- [Stylus](https://packagecontrol.io/packages/Stylus)
-- [Pumpkin Theme](https://packagecontrol.io/packages/Pumpkin%20Color%20Scheme)
-- [CSS Lint](https://packagecontrol.io/packages/CSSLint)
-
-**Sublime Text 3 - key Bindings**
-
-	{ "keys": ["ctrl+;"], "command": "toggle_comment", "args": { "block": false } },
-	{ "keys": ["ctrl+shift+;"], "command": "toggle_comment", "args": { "block": true } }
-
-**git**
-```
-$ apt-get install git
-```
-
-**git configs**
-```
-$ git config --global user.name "my name"
-$ git config --global user.email my-email@example.com
-```
-
-**Atom**
-
-[Download](https://atom.io/)
 
 **Ruby**
 ```
 $ apt-get install ruby1.9.1-dev
 ```
 
-**SASS**
-```
-$ gem install sass
-```
+## Dev
 
-**Jekyll**
+**git**
 ```
-$ gem install jekyll
+$ apt-get install git
 ```
 
 **cURL**
@@ -76,60 +32,30 @@ $ apt-get update
 $ apt-get install curl
 ```
 
+**Vim**
+
+> [Themes, plugins](OTHER.md#vim) and [.vimrc](dotfiles/.vimrc)
+
+**Sublime Text 3**
+```
+$ add-apt-repository -y ppa:webupd8team/sublime-text-3
+$ apt-get update
+$ apt-get install -y sublime-text-installer
+```
+
+**Atom**
+
+[Download](https://atom.io/)
+
 **NVM**
 ```
 curl https://raw.githubusercontent.com/creationix/nvm/v0.23.2/install.sh | bash
-```
-
-**NodeJS**
-```
-$ curl -sL https://deb.nodesource.com/setup | bash -
-$ apt-get install -y nodejs
-```
-
-**Grunt**
-```
-$ npm install -g grunt-cli
-```
-
-**Gulp**
-```
-$ npm install -g gulp
-```
-
-**Jade**
-```
-$ npm install -g jade
-```
-
-**Stylus**
-```
-$ npm install -g stylus
-```
-
-**JSHint**
-```
-$ npm install -g jshint
-```
-
-**Bower**
-```
-$ npm install -g bower
-```
-
-**Yeoman**
-```
-$ npm install -g yo
 ```
 
 **Rsync**
 ```
 $ apt-get install rsync
 ```
-
-**Jasmine**
-
-[Download](http://jasmine.github.io/)
 
 **Apache 2**
 ```
@@ -148,7 +74,7 @@ $ apt-get install mysql-server
 $ apt-get install php5 php-pear php5-mysql
 ```
 
-## Ubuntu Utilities
+## Utilities
 
 **Update & Upgrade**
 ```

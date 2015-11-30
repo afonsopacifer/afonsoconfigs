@@ -1,9 +1,9 @@
 # .afonsoconfigs
-> Packages, configs, dotfiles, etc...
+> Packages, configs, dotfiles, plugins, etc...
 
-## [Ubuntu](UBUNTU.md)
-
-## [OSX](OSX.md)
+![OSX](images/osx.jpg) | ![ubuntu](images/ubuntu.jpg)  | ![NodeJS](images/nodejs.jpg) | ![Ruby](images/ruby.jpg) | ![Other](images/rocket.jpg)
+--- | ---  | --- | --- | ---
+[OSX](OSX.md) |  [Ubuntu](UBUNTU.md)  | [NodeJS](NODEJS.md) | [Ruby](RUBY.md) | [Other](OTHER.md)
 
 ## Licence
 [MIT Licence](licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
