@@ -1,7 +1,7 @@
 # .afonsoconfigs
 > Packages, configs, dotfiles, plugins, etc...
 
-![OSX](images/osx.jpg) | ![ubuntu](images/ubuntu.jpg)  | ![NodeJS](images/nodejs.jpg) | ![Ruby](images/ruby.jpg) | ![Other](images/rocket.jpg)
+[![OSX](images/osx.jpg)](OSX.md) | [![ubuntu](images/ubuntu.jpg)](UBUNTU.md)  | [![NodeJS](images/nodejs.jpg)](NODEJS.md) | [![Ruby](images/ruby.jpg)](RUBY.md) | [![Other](images/rocket.jpg)](OTHER.md)
 --- | ---  | --- | --- | ---
 [OSX](OSX.md) |  [Ubuntu](UBUNTU.md)  | [NodeJS](NODEJS.md) | [Ruby](RUBY.md) | [Other](OTHER.md)
 

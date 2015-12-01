@@ -13,6 +13,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'bling/vim-airline'
 Plugin 'nanotech/jellybeans.vim'
 Plugin 'zenorocha/dracula-theme', {'rtp': 'vim/'}
+Plugin 'digitaltoad/vim-jade'
+Plugin 'wavded/vim-stylus'
 
 call vundle#end()
 filetype plugin indent on
