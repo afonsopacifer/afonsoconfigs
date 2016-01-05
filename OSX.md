@@ -64,3 +64,9 @@ $ ln -s $DRACULA_THEME/zsh/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
 **Vim**
 
 > [Themes, plugins](OTHER.md#vim) and [.vimrc](dotfiles/.vimrc)
+
+**MongoDB**
+
+```
+[download](https://www.mongodb.org/)
+```
