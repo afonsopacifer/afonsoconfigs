@@ -67,6 +67,4 @@ $ ln -s $DRACULA_THEME/zsh/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
 
 **MongoDB**
 
-```
 [download](https://www.mongodb.org/)
-```
