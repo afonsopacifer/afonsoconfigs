@@ -47,8 +47,8 @@ $ npm install -g bower
 $ npm install -g yo
 ```
 
-**Yeoman**
+**Mongo Hacker**
 ```
-$ npm install -g Mongo Hacker
+$ npm install -g mongo-hacker
 ```
 
