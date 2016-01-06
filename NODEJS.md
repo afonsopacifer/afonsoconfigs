@@ -47,8 +47,9 @@ $ npm install -g bower
 $ npm install -g yo
 ```
 
-**Mongo Hacker**
+**Karma**
 ```
-$ npm install -g mongo-hacker
+$ npm install -g karma
+$ npm install -g karma-cli
 ```
 
