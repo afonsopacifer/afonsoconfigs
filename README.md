@@ -5,5 +5,5 @@
 --- | ---  | --- | --- | ---
 [OSX](OSX.md) |  [Ubuntu](UBUNTU.md)  | [NodeJS](NODEJS.md) | [Ruby](RUBY.md) | [Other](OTHER.md)
 
-## Licence
-[MIT Licence](licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+## License
+[MIT License](license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
